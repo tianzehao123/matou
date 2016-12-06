@@ -669,6 +669,8 @@ var imgsource ='';
 				"bottom": "50%",
 				"margin-bottom": clipHeight/2,
 				"background-color": "rgba(0,0,0,.5)"
+		
+			
 			}).appendTo($mask);
 			var $mask_bottom = $("<div class='photo-clip-mask-bottom'>").css({
 				"position": "absolute",

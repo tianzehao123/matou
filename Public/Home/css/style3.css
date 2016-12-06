@@ -69,20 +69,19 @@ header span {
 
 .half> a {
 	position: relative;
-	top: 45px;
+	top: 46px;
 	width: 8rem;
 	display: inline-block;
-	background: #18b4ed;
-	height: 8rem;
-	left: 50%;
+	/*background: #18b4ed;*/
+	height: 9rem;
+	left: 70%;
 	margin-left: -4rem
 }
 
 .half> a img {
-	width: 5rem;
-	height: 4.16rem;
-	margin-left: 1.5rem;
-	margin-top: 1.92rem
+	width: 100%;
+	/*margin-left: 1.5rem;
+	margin-top: 1.92rem*/
 }
 
 .half> p {
@@ -117,7 +116,8 @@ header span {
 }
 
 .logo {
-	border-radius: 100%
+	border: 1px solid #000;
+	/*border-radius: 100%*/
 }
 
 
@@ -719,12 +719,13 @@ table {
 	float: right;
 	height: 100%;
 	width: 8rem;
-	background: #18b4ed;
+	/*background: #18b4ed;*/
 	border: 0;
 	outline: none;
 	color: #fff;
 	font-size: 2rem;
 	z-index: 999;
+	background: #000;
 }
 
 .foot-use {
@@ -838,8 +839,9 @@ input[type=text]::-webkit-focus-inner {
 
 .blue .button {
 	color: #fff;
-	background: #18b4ed;
+	/*background: #18b4ed;*/
 	height: 100%;
+	background: #000;
 }
 
 .info {
@@ -869,7 +871,7 @@ input[type=text]::-webkit-focus-inner {
 	width: 50%;
 	float: left;
 	position: relative;
-	top: 78px;
+	top: 80px;
 	/*text-align: right;*/
 	padding-left: 15px;
 	font-size: 16px;
@@ -902,12 +904,17 @@ input[type=text]::-webkit-focus-inner {
 
 .info ul li .right textarea {
 	outline: none;
-	border: 0;
+	border: 0px;
+	height: auto;
+	resize: none;
+	width: 95%;
+	height: 80px;
+	background-color: #EDEDED;
 }
 
 .btn-1 {
-	margin-top: 5rem;
-	margin-bottom: 2rem;
+	margin-top: 20px;
+	margin-bottom: 10px;
 	text-align: center
 }
 

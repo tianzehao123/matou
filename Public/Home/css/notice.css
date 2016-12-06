@@ -24,7 +24,7 @@ ul li{
     left: 0;
     top: 8px;
     z-index: 2;
-    /*¼æÈÝie8-*/
+    /*ï¿½ï¿½ï¿½ï¿½ie8-*/
 }
 
 .left-arrow1,
@@ -36,7 +36,7 @@ ul li{
     left: 0;
     top: 0;
     z-index: 5;
-    /*¼æÈÝie8-*/
+    /*ï¿½ï¿½ï¿½ï¿½ie8-*/
     border-top: 12px transparent dashed;
     border-left: 12px transparent dashed;
     border-bottom: 12px transparent dashed;
@@ -49,7 +49,7 @@ ul li{
 
 .left-arrow2 {
     left: 2px;
-    /*ÖØÒª*/
+    /*ï¿½ï¿½Òª*/
     border-right: 12px white solid;
 }
 
@@ -104,7 +104,7 @@ ul li{
 
 .right-arrow1 {
     left: 1px;
-    /*ÖØÒª*/
+    /*ï¿½ï¿½Òª*/
     border-left: 10px #a7a7a7 solid;
 }
 
@@ -113,10 +113,14 @@ ul li{
 }
 .select_type ul{
     padding: 0 15px;
+    margin-bottom: 0;
 }
 .select_type ul li{
     display: block;
-    line-height: 30px;
+    line-height: 50px;
+    height: 50px;
+    border-bottom: 1px solid #CCCCCC;
+    font-size: 14px;
 }
 .select_type ul li:hover{
     background: url("../image/type-selected.png") no-repeat;
@@ -130,10 +134,14 @@ ul li{
 }
 .select_sex ul{
     padding: 0 15px;
+    margin-bottom: 0;
 }
 .select_sex ul li{
     display: block;
-    line-height: 30px;
+    line-height: 50px;
+    height: 50px;
+    border-bottom: 1px solid #CCCCCC;
+    font-size: 14px;
 }
 .select_sex ul li:hover{
     background: url("../image/type-selected.png") no-repeat;
@@ -156,9 +164,10 @@ ul li{
 }
 footer textarea{
     outline: none;
-    width: 80%;
-    height:60px;
+    width: 100%;
+    height:80px;
     border: none;
+    background-color: #EDEDED;
     color: #282828;
     resize: none;
     font-size:15px;
@@ -217,11 +226,6 @@ footer textarea{
     top: 0;
     opacity: 0;
     border-radius: 5px;
-}
-#cvs{
-    border: 1px solid #9f9f9f;
-    background-image:url("../image/camera.png");
-    background-repeat: no-repeat;
 }
 .radio_sex{
     height: 18px;
