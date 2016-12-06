@@ -1,0 +1,126 @@
+[ 2016-11-16T09:43:30+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000629s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T10:58:09+08:00 ] ::1 /xsmt/SendMoblie.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000530s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T10:58:18+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000282s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T10:58:34+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000381s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T10:59:56+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000300s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T10:59:57+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T11:00:35+08:00 ] ::1 /xsmt/Public/Home/index//xsmt/Public/Home/index/images/submit.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000304s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T11:00:37+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T11:31:18+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T11:34:46+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:33:38+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:33:38+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:33:45+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000551s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:34:24+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:42:57+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:44:08+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:44:23+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:44:24+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T13:49:26+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T14:52:36+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000507s ]
+ERR: 无法加载模块:Xsmt
+
+[ 2016-11-16T14:56:31+08:00 ] ::1 /xsmt/Public/Home/register/img/bg1.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Xsmt
+

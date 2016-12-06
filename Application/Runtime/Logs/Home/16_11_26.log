@@ -1,0 +1,1699 @@
+[ 2016-11-26T15:15:52+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.044475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.017000s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0460s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.061370s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.061448s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.218811s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.218892s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.014099s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003790s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003882s ]
+
+[ 2016-11-26T15:16:05+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000866s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000199s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022399s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000583s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000880s ]
+
+[ 2016-11-26T15:16:11+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000721s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0006s ]
+
+[ 2016-11-26T15:18:28+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0092s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000201s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020876s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020958s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001055s ]
+
+[ 2016-11-26T15:18:52+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000889s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000232s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000308s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023623s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000735s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000901s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001003s ]
+
+[ 2016-11-26T15:19:40+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000842s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000792s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022156s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002573s ]
+
+[ 2016-11-26T15:20:52+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001905s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020121s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020206s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002516s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002616s ]
+
+[ 2016-11-26T15:23:31+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0006s ]
+
+[ 2016-11-26T15:23:34+08:00 ] ::1 /wx/index.php/home/index/ajax/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000743s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 2  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:23:58+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000751s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001397s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000587s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000249s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025557s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000478s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001558s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001677s ]
+
+[ 2016-11-26T15:25:50+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000727s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000793s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000252s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024531s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024620s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000444s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000499s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002456s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002575s ]
+
+[ 2016-11-26T15:25:51+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001108s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0011s ]
+
+[ 2016-11-26T15:26:10+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000552s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000187s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000244s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021993s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022084s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000624s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001145s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001342s ]
+
+[ 2016-11-26T15:26:15+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:26:23+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000821s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0102s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000296s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000854s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001032s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001131s ]
+
+[ 2016-11-26T15:27:47+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000380s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000207s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022586s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022698s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000440s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000956s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001072s ]
+
+[ 2016-11-26T15:29:27+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000886s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000974s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:33:57+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000532s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000625s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020364s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000418s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000965s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001064s ]
+
+[ 2016-11-26T15:34:00+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000578s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000669s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000734s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:35:25+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000533s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000242s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025301s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025371s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003284s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003423s ]
+
+[ 2016-11-26T15:35:41+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000770s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000845s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000303s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022598s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000681s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000837s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000923s ]
+
+[ 2016-11-26T15:41:26+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000881s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000234s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000310s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028668s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000833s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003012s ]
+
+[ 2016-11-26T15:42:08+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000378s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000804s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0057s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000255s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037737s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037794s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000390s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-11-26T15:43:32+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000665s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000730s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000200s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000262s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024875s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024931s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000516s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001438s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003174s ]
+
+[ 2016-11-26T15:43:45+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000786s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000253s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 136 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024389s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000536s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001023s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001120s ]
+
+[ 2016-11-26T15:50:15+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000847s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000307s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022089s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000731s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2016-11-26T15:50:38+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000597s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0081s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000280s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000368s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025190s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025245s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000573s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000646s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000876s ]
+
+[ 2016-11-26T15:51:13+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000553s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0076s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000309s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030979s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000819s ]
+
+[ 2016-11-26T15:51:39+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000767s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000860s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000274s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027417s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000497s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000732s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2016-11-26T15:52:00+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000692s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000760s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0077s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000303s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000438s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027767s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000529s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001188s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2016-11-26T15:52:06+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000678s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:55:27+08:00 ] ::1 /wx/index.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000203s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000265s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023961s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024019s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000553s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000977s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001085s ]
+
+[ 2016-11-26T15:55:35+08:00 ] ::1 /wx/index.php/home/notice
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000566s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000218s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048359s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048440s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000446s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002821s ]
+
+[ 2016-11-26T15:55:35+08:00 ] ::1 /wx/index.php/home/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000662s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载控制器:Js
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/Upload
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001181s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000243s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000301s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.081707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.081789s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000323s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000373s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001883s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001982s ]
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/image/sexg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/image/heightg.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000493s ]
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005803s ]
+
+[ 2016-11-26T15:56:18+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000709s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000226s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024820s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024923s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000935s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001078s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000087s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000622s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-26T15:56:30+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-11-26T15:56:31+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+
+[ 2016-11-26T15:57:20+08:00 ] ::1 /wx/index.php/home/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+
+[ 2016-11-26T15:57:20+08:00 ] ::1 /wx/index.php/home/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-11-26T15:57:25+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000600s ]
+
+[ 2016-11-26T15:57:25+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000684s ]
+
+[ 2016-11-26T15:57:27+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000676s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:58:33+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000479s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000495s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0013s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000212s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000275s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026751s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026836s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000985s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001080s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000789s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000674s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000541s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000482s ]
+
+[ 2016-11-26T15:58:34+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000457s ]
+
+[ 2016-11-26T15:58:36+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000729s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:58:48+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001712s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000470s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028543s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000690s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002118s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003371s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000651s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-11-26T15:58:49+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-11-26T15:58:51+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0005s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0120s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000339s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026356s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026472s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000386s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000798s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000900s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000452s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+
+[ 2016-11-26T15:59:14+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+
+[ 2016-11-26T15:59:16+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000585s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000710s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000783s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0061s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000557s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0088s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000253s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034680s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034761s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000642s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001152s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000492s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000611s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000525s ]
+
+[ 2016-11-26T15:59:26+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000562s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000753s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+
+[ 2016-11-26T15:59:27+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000564s ]
+
+[ 2016-11-26T15:59:28+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000638s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0054s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T15:59:47+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000262s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000382s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000730s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000808s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000758s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000883s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000898s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000652s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001208s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000473s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000477s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+
+[ 2016-11-26T15:59:48+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-11-26T15:59:49+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000537s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000763s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0062s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0006s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000732s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000829s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000213s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026635s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000438s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000808s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000555s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000603s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000839s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000563s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000462s ]
+
+[ 2016-11-26T15:59:55+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001886s ]
+
+[ 2016-11-26T15:59:56+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000607s ]
+
+[ 2016-11-26T15:59:56+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000863s ]
+
+[ 2016-11-26T15:59:56+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000824s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001273s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0105s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0005s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003094s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000290s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000832s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000589s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000534s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+
+[ 2016-11-26T16:00:03+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000608s ]
+
+[ 2016-11-26T16:00:04+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+
+[ 2016-11-26T16:00:05+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000868s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0005s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001049s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0098s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029764s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000337s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000385s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000791s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000474s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000454s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001788s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000663s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+
+[ 2016-11-26T16:00:29+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+
+[ 2016-11-26T16:00:30+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000532s ]
+
+[ 2016-11-26T16:00:30+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+
+[ 2016-11-26T16:00:30+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+
+[ 2016-11-26T16:00:30+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000512s ]
+
+[ 2016-11-26T16:00:30+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000559s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T16:00:40+08:00 ] ::1 /wx/index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000884s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000214s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000328s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000376s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000811s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000918s ]
+
+[ 2016-11-26T16:00:40+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000710s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000463s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000456s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/logo.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/any.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000472s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/placer.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/time.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000509s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+
+[ 2016-11-26T16:00:41+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+
+[ 2016-11-26T16:00:42+08:00 ] ::1 /wx/index.php/home/index/ajax/id/1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000660s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `xinxi` WHERE ( id = 1  )  [ RunTime:0.0004s ]
+
+[ 2016-11-26T16:03:10+08:00 ] ::1 /wx/index.php/home/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+
+[ 2016-11-26T16:03:10+08:00 ] ::1 /wx/index.php/home/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+
+[ 2016-11-26T16:03:11+08:00 ] ::1 /wx/index.php/home/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000574s ]
+
+[ 2016-11-26T16:03:11+08:00 ] ::1 /wx/index.php/home/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-11-26T22:34:04+08:00 ] ::1 /wx/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000854s ]
+SQL: SHOW COLUMNS FROM `xinxi` [ RunTime:0.0073s ]
+SQL: SELECT * FROM `xinxi`  [ RunTime:0.0019s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+NOTIC: [8] Use of undefined constant sex - assumed 'sex' D:\xampp\htdocs\wx\Application\Runtime\Cache\Home\2c3d1f1be75d2e89905f649ec6a2b2eb.php 第 129 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028362s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001132s ]
+

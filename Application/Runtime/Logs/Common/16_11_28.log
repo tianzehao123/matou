@@ -1,0 +1,246 @@
+[ 2016-11-28T08:45:55+08:00 ] ::1 /wx/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000826s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T08:45:55+08:00 ] ::1 /wx/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000828s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T08:46:01+08:00 ] ::1 /wx/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001905s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T08:46:01+08:00 ] ::1 /wx/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T09:55:06+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000830s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T10:43:17+08:00 ] ::1 /wx/i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T10:55:54+08:00 ] ::1 /wx/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T10:55:54+08:00 ] ::1 /wx/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000717s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T10:55:55+08:00 ] ::1 /wx/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001429s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T10:55:55+08:00 ] ::1 /wx/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002757s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:03:12+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:26:11+08:00 ] ::1 /wx/i
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:36:58+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001666s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:43:08+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:57:17+08:00 ] ::1 /wx/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.035426s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:57:17+08:00 ] ::1 /wx/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000944s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:57:18+08:00 ] ::1 /wx/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T11:57:18+08:00 ] ::1 /wx/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000450s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T12:07:59+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000646s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:39:46+08:00 ] ::1 /wx/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:39:46+08:00 ] ::1 /wx/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000935s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:39:51+08:00 ] ::1 /wx/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:39:51+08:00 ] ::1 /wx/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000712s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:50:13+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001963s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:51:48+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002093s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T13:58:54+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T14:03:49+08:00 ] ::1 /wx/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001341s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T15:54:23+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:54:25+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000451s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:54:29+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001121s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:54:39+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000963s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:54:45+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002061s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:10+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:21+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000683s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:21+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:37+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:41+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T15:55:51+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T18:01:57+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001102s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-11-28T19:34:10+08:00 ] ::1 /wx/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001143s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-11-28T19:34:10+08:00 ] ::1 /wx/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:Http:
+

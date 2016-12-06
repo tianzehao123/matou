@@ -1,0 +1,282 @@
+[ 2016-12-02T11:05:03+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-12-02T15:57:10+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T15:57:10+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T15:57:50+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T15:57:50+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000460s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T15:59:57+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003785s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T15:59:57+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003120s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:00:19+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:00:19+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004306s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:02:30+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000062s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013506s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:02:30+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:03:08+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:03:08+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001702s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:03:57+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:03:57+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000618s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:05:02+08:00 ] ::1 /wx/index.php/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:05:02+08:00 ] ::1 /wx/index.php/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001091s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:24:48+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000672s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:24:49+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:24:51+08:00 ] ::1 /wx/index.php/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T16:24:51+08:00 ] ::1 /wx/index.php/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:08:53+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001585s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:08:53+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002384s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:35:34+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002406s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/css/jquery.fs.boxer.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000662s ]
+ERR: 无法加载模块:Css
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016746s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/jquery.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/Popt.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000640s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/citySet.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/cityJson.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000536s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/index.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:36:12+08:00 ] ::1 /wx/index.php/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004939s ]
+ERR: 无法加载模块:Js
+
+[ 2016-12-02T17:37:06+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002082s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:38:06+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000058s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001982s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:38:18+08:00 ] ::1 /wx/index.php/image/goodsb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001350s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:38:18+08:00 ] ::1 /wx/index.php/image/peoplea.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.025988s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:38:19+08:00 ] ::1 /wx/index.php/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:38:19+08:00 ] ::1 /wx/index.php/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000594s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T17:38:20+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:43:34+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001484s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:44:57+08:00 ] ::1 /wx/Public/Home/js/jquery.fs.boxer.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000679s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T17:51:37+08:00 ] ::1 /wx/Public/Home/css/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000614s ]
+ERR: 无法加载模块:Http:
+
+[ 2016-12-02T20:21:21+08:00 ] ::1 /wx/index.php/issued
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+ERR: 无法加载模块:Issued
+
+[ 2016-12-02T21:42:33+08:00 ] ::1 /wx/index.php/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002329s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T21:42:33+08:00 ] ::1 /wx/index.php/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008185s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T21:42:34+08:00 ] ::1 /wx/index.php/image/peopleb.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003518s ]
+ERR: 无法加载模块:Image
+
+[ 2016-12-02T21:42:34+08:00 ] ::1 /wx/index.php/image/goodsa.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002133s ]
+ERR: 无法加载模块:Image
+

@@ -1,0 +1,235 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: "microsoft yahei";
+}
+ul li{
+    list-style: none;
+}
+.home {
+    line-height: 45px;
+    height: 45px;
+    border-bottom: 1px #CCCCCC solid;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.left {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0;
+    top: 8px;
+    z-index: 2;
+    /*����ie8-*/
+}
+
+.left-arrow1,
+.left-arrow2 {
+    width: 0;
+    height: 0;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 5;
+    /*����ie8-*/
+    border-top: 12px transparent dashed;
+    border-left: 12px transparent dashed;
+    border-bottom: 12px transparent dashed;
+    border-right: 12px white solid;
+}
+
+.left-arrow1 {
+    border-right: 12px #a9a9a9 solid;
+}
+
+.left-arrow2 {
+    left: 2px;
+    /*��Ҫ*/
+    border-right: 12px white solid;
+}
+
+.main {
+    width: 96%;
+    height: 1px;
+    float: right;
+    border-bottom: 1px #CCCCCC solid;
+}
+
+.content {
+    height: 42px;
+    line-height: 40px;
+    font-size: 15px;
+    overflow: hidden;
+}
+
+.content input {
+    height: 40px;
+    font-size: 15px;
+    width: 110%;
+    background-color: transparent;
+    position: relative;
+    z-index: 10;
+    outline: none;
+    border: none;
+}
+
+.right {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 2%;
+    float: right;
+    top: 10px;
+}
+
+.right-arrow1,
+.right-arrow2 {
+    width: 0;
+    height: 0;
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    border-top: 10px transparent dashed;
+    border-right: 10px transparent dashed;
+    border-bottom: 10px transparent dashed;
+    border-left: 10px white solid;
+    overflow: hidden;
+}
+
+.right-arrow1 {
+    left: 1px;
+    /*��Ҫ*/
+    border-left: 10px #a7a7a7 solid;
+}
+
+.right-arrow2 {
+    border-left: 10px white solid;
+}
+.select_type ul{
+    padding: 0 15px;
+}
+.select_type ul li{
+    display: block;
+    line-height: 30px;
+}
+.select_type ul li:hover{
+    background: url("../image/type-selected.png") no-repeat;
+    background-position: right;
+    background-size: 5%;
+}
+.select_type ul li.selected{
+    background: url("../image/type-selected.png") no-repeat;
+    background-position: right;
+    background-size: 5%;
+}
+.select_sex ul{
+    padding: 0 15px;
+}
+.select_sex ul li{
+    display: block;
+    line-height: 30px;
+}
+.select_sex ul li:hover{
+    background: url("../image/type-selected.png") no-repeat;
+    background-position: right;
+    background-size: 5%;
+}
+.select_sex ul li.selected{
+    background: url("../image/type-selected.png") no-repeat;
+    background-position: right;
+    background-size: 5%;
+}
+.content.background{
+    background: #ececec;
+    width: 100%;
+}
+.footer{
+    width: 100%;
+    height: 123px;
+    margin-bottom: 10px;
+}
+footer textarea{
+    outline: none;
+    width: 100%;
+    height:80px;
+    border: none;
+    background-color: #EDEDED;
+    color: #282828;
+    resize: none;
+    font-size:15px;
+}
+.footer-thing{
+    width: 100%;
+    height: 165px;
+    margin-bottom: 10px;
+}
+.footer-top{
+    height: 73px;
+    padding-top: 10px;
+}
+.footer-top-thing{
+    height: 115px;
+    padding-top: 10px;
+}
+.footer-supplier{
+    width: 100%;
+    height: 190px;
+}
+.footer-top-supplier{
+    height: 140px;
+    padding-top: 10px;
+}
+.footer-bottom{
+    height: 50px;
+    line-height: 50px;
+}
+.button{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    background: #ed4c59;
+    font-size: 19px;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 360px){
+    .col-xs-3{
+        width: 30% !important;
+    }
+    .col-xs-9{
+        width: 70% !important;
+        padding-left: 0 !important;
+    }
+}
+.upload_pic{
+    display: none;
+    width: 100%;
+    height: 40px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    border-radius: 5px;
+}
+.radio_sex{
+    height: 18px;
+    float: left;
+}
+.radio_sex img{
+    height: 18px;
+    margin-bottom: 10px;
+}
+.radio_sex input{
+    margin-left: 12px;
+    margin-top: 10px;
+    width: 18px;
+    height: 18px;
+}
